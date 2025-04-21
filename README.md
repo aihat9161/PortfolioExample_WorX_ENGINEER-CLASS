@@ -22,6 +22,8 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing)
 
+詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
+
 ※[]の中に表示文を書き、その後ろで()の中にURLを入れればハイパーリンク化できます。
 
 ## 機能一覧
