@@ -54,9 +54,12 @@ https://blogapp-forlecture.vercel.app/
 ## 備考
 [ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
 
+- 活用した生成AIとその用途
+  - ChatGPT：要件定義、設計、各種リサーチ
+  - v0：アプリのモック作成
+  - GitHub Copilot Chat：ローカル環境でのコードの修正相談
+
 - リファクタリングの規則
-  - a
-  - b
-
-
-
+  - 2つ以上のファイルで使う、行数が10以上のUIコンポーネントはcomponentsフォルダに移行
+  - 2つ以上のファイルで使う、行数が10以上の関数はlibフォルダに移行
+  - 変数名で2つ以上の単語が入る場合は、「isPublished」のように二つ目以降の単語の頭を大文字とする
