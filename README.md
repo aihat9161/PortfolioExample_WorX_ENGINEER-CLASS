@@ -54,6 +54,9 @@ https://blogapp-forlecture.vercel.app/
 ## 備考
 [ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
 
+- リファクタリングの規則
+  - a
+  - b
 
 
 
