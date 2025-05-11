@@ -25,11 +25,13 @@ https://blogapp-forlecture.vercel.app/
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
+- テスト・デバッグ：DevTools（Chrome）
+- CI/CD：GitHub Actions（ESLint）
 
 ※箇条書きは「-」のあとに空白を入れて本文を始めることで可能です。
 
 ## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing)
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing)
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
@@ -42,3 +44,16 @@ https://blogapp-forlecture.vercel.app/
   - Gemini 2.0 flashモデルを使用
 
 ※空白を2つ開けて「-」から始めることで、箇条書きが2段目になります。三段目は空白を4つ開ければ可能です。
+
+## テスト・修正の設計及び実施書
+[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
+
+## アプリの改善案
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+
+## 備考
+[ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
+
+
+
+
